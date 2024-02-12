@@ -1,0 +1,19 @@
+{
+    "compilerOptions": {
+        "lib": ["dom", "es6"],
+        "types": [
+            "node",
+            "webdriverio/sync",
+            "@wdio/mocha-framework"
+        ]
+    },
+    "include" : [
+        "test/specs/*.js",
+        "test/specs/*.json",
+        "test/pageobjects/*.js",
+        "**/*.json",
+        "**/*.js",
+        "node_modules/@wdio/sync",
+        "node_modules/@wdio/mocha-framework"
+    ]
+}

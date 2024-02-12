@@ -1,0 +1,22 @@
+[
+    {
+        "TESTUSN": "dest_ub",
+        "TESTPWD": "dest@123",
+        "TESTPWDMOD": "demmo@",
+        "SHIPMENTDETAILS": "Shipment Details",
+        "REJECTION": "Rejection",
+        "BAGS_CLOSED": "Bags Closed",
+        "DATA_PUSH_LOGS_PARCELS": "Data Push Logs - Parcels",
+        "DATA_PUSH_LOGS_BAG_SEAL": "Data Push Logs - Bag Seal",
+        "BIN_WISE_SHIPMENT_VOLUME":"Bin Wise Shipment Volume",
+        "ERROR_LOGS": "Error Logs",
+        "ERROR_LOGS_SUMMARY":"Error Logs Summary",
+        "SORTMAP": "Sort Map",
+        "REGEX": "Regex",
+        "ROBOTS": "Robots",
+        "FEEDER": "Feeder",
+        "BIN": "Bin",
+        "BAG":"Bag",
+        "PRINTER": "Printer"
+    }
+]
